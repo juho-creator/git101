@@ -65,7 +65,17 @@ git push origin --delete main
 - hotfix : 빠른 버그 수정 ( Master --> Develop & Master)
 
 --no-ff : merge를 할때 사용함
-</br></br>
+</br></br></br></br>
+
+
+# CI/CD
+![image](https://github.com/juho-creator/git101/assets/72856990/c0668ed5-3bbd-483c-ae9c-65f9ab011e6d)
+
+- **CI (Continuous Integration)** : 여려 명이 코드 하나를 수정하며 지속적으로 관리함 
+- **CD (Continuous Deployment)** : 빌드된 코드를 자동으로 재품 릴리스함
+![image](https://github.com/juho-creator/git101/assets/72856990/d591228c-8a4d-4f18-be17-d2fb25903a60)
+</br></br></br></br>
+
 
 
 # Reference
