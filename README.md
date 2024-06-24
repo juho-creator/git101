@@ -69,5 +69,11 @@ git push origin --delete main
 
 
 # Reference
-[**렉스의 Git 브랜칭 전략**
+- [**렉스의 Git 브랜칭 전략**
 ](https://www.youtube.com/watch?v=wtsr5keXUyE)
+- [**Explain Git like I'm five**](https://www.youtube.com/watch?v=YFNQwo7iTNc)
+- [**Github와 협업**](https://www.youtube.com/watch?v=3doDm--wuJE)
+- [**Git 강의**](https://www.youtube.com/watch?v=hFJZwOfme6w&list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk&index=2)
+- [**CI/CD란?**](https://www.youtube.com/watch?v=sIPU_VkrguI)
+- [**Git 브랜치 보는 법**](https://www.youtube.com/watch?v=PHkdwAL6NQY) 
+
