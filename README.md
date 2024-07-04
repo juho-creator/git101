@@ -13,7 +13,9 @@ git remote add origin https://github.com/juho-creator/AlgoTrading.git</br>
 git fetch
 </br></br></br></br>
 
-
+## Issuing new token
+git remote set-url origin https://youruser:password@github.com/user/repo.git
+</br></br></br></br>
 
 
 ## UPDATING REPO
